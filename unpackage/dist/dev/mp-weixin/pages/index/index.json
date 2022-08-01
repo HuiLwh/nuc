@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "home": "/components/Home/Home",
+    "m-f": "/components/MF/Mian",
+    "s-z": "/components/SZ/ShiZ",
+    "t-y": "/components/TY/Ty"
+  }
+}
